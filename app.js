@@ -1,6 +1,6 @@
 // === CONFIG ===
-const SUPABASE_URL = "https://xxx.supabase.co"; // ← GANTI!
-const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.xxxxx"; // ← GANTI!
+const SUPABASE_URL = "https://ayaptrsbnwvaeuwbbtrx.supabase.co"; // ← GANTI!
+const SUPABASE_ANON_KEY = "sb_publishable_gtdzoKATO-RATTSPT0FvrQ_bY7mB01d"; // ← GANTI!
 
 // === UTIL ===
 function getTelegramUser() {
